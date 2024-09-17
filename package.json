@@ -1,5 +1,5 @@
 {
-  "name": "dnsimple",
+  "name": "@jesseditson/dnsimple",
   "version": "8.0.0",
   "description": "A Node.JS client for the DNSimple API.",
   "keywords": [
